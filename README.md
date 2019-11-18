@@ -1,4 +1,5 @@
 # phpMyWeChat
+**本项目仅供研究学习使用, 本人不对该项目及可能的衍生品以及可能产生的损失和法律责任负责**
 + A PHP based WeChat protocol implement.
 + 一个由PHP实现的微信协议
 
