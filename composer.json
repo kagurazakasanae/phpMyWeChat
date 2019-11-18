@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpseclib/phpseclib": "^2.0",
+        "workerman/workerman": "^3.5",
+        "workerman/globaldata": "^1.0",
+        "sop/crypto-types": "^0.3.0",
+        "mdanter/ecc": "^0.5.2"
+    }
+}
