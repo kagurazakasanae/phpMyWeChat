@@ -4,6 +4,7 @@
 + A PHP based WeChat protocol implement.
 + 一个由PHP实现的微信协议
 + 尚未完成,挖坑不填
++ 说明没有,自己看代码
 
 ## Requirements
 + PHP 7.2 or higher
